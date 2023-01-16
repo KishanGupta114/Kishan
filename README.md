@@ -7,8 +7,7 @@ A Full Stack Developer and Love to contribute in Open Source Projects.
 [![Twitter Badge](https://img.shields.io/badge/-@i_kishan_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i_kishan_)](https://twitter.com/i_kishan_) [![Linkedin Badge](https://img.shields.io/badge/-ikishan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-kishan/) [![Mail Badge](https://img.shields.io/badge/-@_i.kishan_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_i.kishan_) [![Mail Badge](https://img.shields.io/badge/-Kishan_Gupta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kkishan114@gmail.com)
 
 
-- 🔭 I’m currently working as a community lead at Codezila
-- And Open Source Contributor at 69coders
+- 🔭 I’m currently working as a Lead Engineer at [69coders](https://github.com/Team69coders) [An Open Source Community]
 - :computer: Most used line of code `git commit -m "Initial Commit"` 😄
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: kkishan114@gmail.com.
