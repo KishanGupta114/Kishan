@@ -7,7 +7,7 @@ A Full Stack Developer and Looking for contribute in Open Source Projects.
 [![Twitter Badge](https://img.shields.io/badge/-@i_kishan_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i_kishan_)](https://twitter.com/i_kishan_) [![Linkedin Badge](https://img.shields.io/badge/-ikishan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-kishan/) [![Mail Badge](https://img.shields.io/badge/-@_i.kishan_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_i.kishan_) [![Mail Badge](https://img.shields.io/badge/-Kishan_Gupta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kkishan114@gmail.com)
 
 
-- 🔭 I’m currently working as a Lead Engineer at [69coders](https://github.com/Team69coders) [An Open Source Community]
+- 🔭 Lead Engineer at [69coders](https://github.com/Team69coders) [An Open Source Community]
 - :computer: Most used line of code `git commit -m "Initial Commit"` 😄
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: kkishan114@gmail.com.
@@ -22,8 +22,6 @@ A Full Stack Developer and Looking for contribute in Open Source Projects.
 ### Tools & Technologies
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" width="26px" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" />
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" />
 
@@ -40,8 +38,6 @@ A Full Stack Developer and Looking for contribute in Open Source Projects.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
@@ -71,7 +67,7 @@ A Full Stack Developer and Looking for contribute in Open Source Projects.
 <br />
 
 #### Portfolio Website
-- [My Portfolio](https://bit.ly/i_kishan)
+- [My Portfolio](https://linkfree.eddiehub.io/KishanGupta114)
 - :email: kkishan114@gmail.com
 
 
