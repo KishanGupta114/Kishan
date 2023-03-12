@@ -111,3 +111,5 @@ No Activity tracked this Week
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=KishanGupta114&theme=onedark)
 
 </details>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kishangupta114"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="190" alt="kishangupta114" /></a></p><br><br>
