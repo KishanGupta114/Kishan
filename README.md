@@ -45,21 +45,15 @@ A Full Stack Developer and Looking for contribute in Open Source Projects.
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" />
 
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />
-
 <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
 
 <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
-
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" />
 
 <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
-
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
 
 
 
